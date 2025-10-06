@@ -137,5 +137,3 @@ GPU: RTX 4080
 RAM: 32GB
 Storage: 2000GB
 ```
-
-Would you like me to zip both `.java` files and include this `README.md` inside for submission?
